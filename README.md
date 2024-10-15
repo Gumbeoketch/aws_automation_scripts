@@ -1,5 +1,5 @@
-# take-home-PT2
-## INSTALL PYTHONN3
+
+## INSTALL PYTHON3
 https://www.python.org/downloads/
 ## INSTALL AWS CLI
 Follow the instructions to install AWS CLI:
